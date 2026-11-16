@@ -1,0 +1,31 @@
+# conda env: histology_stroke (Python 3.12)
+#   mamba create -n histology_stroke -c conda-forge python=3.12 pip -y
+#   mamba activate histology_stroke && pip install -r requirements.txt
+
+# --- Zeiss CZI readers ---
+pylibCZIrw          # official Zeiss libCZI wrapper: ROI + zoom reads straight from the pyramid
+aicspylibczi        # mosaic/scene bounding boxes, scaled mosaic reads
+czifile             # pure-python reader, access to attachments (label / slide preview images)
+bioio               # high-level dask-backed reader
+bioio-czi
+imagecodecs         # JPEG-XR / zstd tile decompression
+
+# --- array / image analysis ---
+numpy
+scipy
+pandas
+scikit-image
+opencv-python-headless
+tifffile
+zarr
+dask[array]
+xmltodict
+lxml
+tqdm
+
+# --- plotting / interactive ---
+matplotlib
+jupyterlab
+ipykernel
+ipywidgets
+napari[pyqt6]

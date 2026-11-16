@@ -1,0 +1,45 @@
+slide_id,status,animal_as_read_unverified,date_on_label,slide_no,scenes_scanned,tissue_pieces_on_preview,same_slide_as,source_czi
+20260724_1,superseded: partial scan of same slide,F R2,2026/07/23,1,6,10,20260902_0,/media/murph_4090ws/My Passport/stroke_8s/7_24_2026-RecognizedCode-1.czi
+20260724_0,superseded: partial scan of same slide,F R2,2026/07/23,2,4,8,20260902_1,/media/murph_4090ws/My Passport/stroke_8s/7_24_2026-RecognizedCode.czi
+20260807_MOSMale-mPFC-FR2,superseded: partial scan of same slide,F R2,2026/07/23,1-1,5,10,20260902_0,/media/murph_4090ws/My Passport/stroke_8s/20260807/8_7_2026_MOSMale_mPFC_RecognizedCode_FR2.czi
+20260902_0,scanned,F R2,2026/07/23,1-1,10,10,,/media/murph_4090ws/My Passport/stroke_8s/20260902/9_2_2026-RecognizedCode.czi
+20260902_1,scanned,F R2,2026/07/23,1-2,8,8,,/media/murph_4090ws/My Passport/stroke_8s/20260902/9_2_2026-RecognizedCode-1.czi
+20260902_4,scanned,FV L2,2026/07/29,1-1,10,10,,/media/murph_4090ws/My Passport/stroke_8s/20260902/9_2_2026-RecognizedCode-4.czi
+20260902_7,scanned,FV L2,2026/07/29,1-2,8,8,,/media/murph_4090ws/My Passport/stroke_8s/20260902/9_2_2026-RecognizedCode-7.czi
+20260902_10,scanned,FV R2L2,2026/07/29,1-1,10,10,,/media/murph_4090ws/My Passport/stroke_8s/20260902/9_2_2026-RecognizedCode-10.czi
+20260902_13,scanned,FV R2L2,2026/07/29,1-2,3,3,,/media/murph_4090ws/My Passport/stroke_8s/20260902/9_2_2026-RecognizedCode-13.czi
+20260902_16,scanned,FV R3,2026/07/29,1-1,9,9,,/media/murph_4090ws/My Passport/stroke_8s/20260902/9_2_2026-RecognizedCode-16.czi
+20260902_19,scanned,FV R3,2026/07/29,1-2,6,6,,/media/murph_4090ws/My Passport/stroke_8s/20260902/9_2_2026-RecognizedCode-19.czi
+20260902_22,scanned,FJ R2,2026/07/29,1-1,10,10,,/media/murph_4090ws/My Passport/stroke_8s/20260902/9_2_2026-RecognizedCode-22.czi
+20260902_25,scanned,FJ R2,2026/07/29,1-2,4,4,,/media/murph_4090ws/My Passport/stroke_8s/20260902/9_2_2026-RecognizedCode-25.czi
+20260902_28,scanned,FJ R3,2026/08/05,1-1,10,10,,/media/murph_4090ws/My Passport/stroke_8s/20260902/9_2_2026-RecognizedCode-28.czi
+20260902_31,scanned,FJ R3,2026/08/05,1-2,8,8,,/media/murph_4090ws/My Passport/stroke_8s/20260902/9_2_2026-RecognizedCode-31.czi
+20260902_pos34,NOT scanned: label + preview only,FG R2,2026/08/06,1-1,0,10,,/media/murph_4090ws/My Passport/stroke_8s/20260902/9_2_2026-RecognizedCode-34_Preview.czi
+20260902_pos37,NOT scanned: label + preview only,FG R2,2026/08/06,1-2,0,2,,/media/murph_4090ws/My Passport/stroke_8s/20260902/9_2_2026-RecognizedCode-37_Preview.czi
+20260902_pos40,NOT scanned: label + preview only,FG R3,2026/08/06,1-1,0,10,,/media/murph_4090ws/My Passport/stroke_8s/20260902/9_2_2026-RecognizedCode-40_Preview.czi
+20260902_pos43,NOT scanned: label + preview only,FG R3,2026/08/06,1-2,0,6,,/media/murph_4090ws/My Passport/stroke_8s/20260902/9_2_2026-RecognizedCode-43_Preview.czi
+20260902_pos46,NOT scanned: label + preview only,FS L2,2026/08/06,1-1,0,8,,/media/murph_4090ws/My Passport/stroke_8s/20260902/9_2_2026-RecognizedCode-46_Preview.czi
+20260902_pos49,NOT scanned: label + preview only,FS L2,2026/08/06,1-2,0,7,,/media/murph_4090ws/My Passport/stroke_8s/20260902/9_2_2026-RecognizedCode-49_Preview.czi
+20260902_pos52,NOT scanned: label + preview only,FG R3,2026/08/07,2-1,0,10,,/media/murph_4090ws/My Passport/stroke_8s/20260902/9_2_2026-RecognizedCode-52_Preview.czi
+20260902_pos55,NOT scanned: label + preview only,FJ L2,2026/08/07,2-1,0,10,,/media/murph_4090ws/My Passport/stroke_8s/20260902/9_2_2026-RecognizedCode-55_Preview.czi
+20260902_pos58,NOT scanned: label + preview only,FJ L2,2026/08/07,2-2,0,5,,/media/murph_4090ws/My Passport/stroke_8s/20260902/9_2_2026-RecognizedCode-58_Preview.czi
+20260902_pos61,NOT scanned: label + preview only,FJ L3,2026/08/07,T2-1 / B3-1,0,7,,/media/murph_4090ws/My Passport/stroke_8s/20260902/9_2_2026-RecognizedCode-61_Preview.czi
+20260902_pos64,NOT scanned: label + preview only,FS L3,2026/08/07,2-1,0,10,,/media/murph_4090ws/My Passport/stroke_8s/20260902/9_2_2026-RecognizedCode-64_Preview.czi
+20260902_pos67,NOT scanned: label + preview only,FS L3,,2-2,0,3,,/media/murph_4090ws/My Passport/stroke_8s/20260902/9_2_2026-RecognizedCode-67_Preview.czi
+20260902_pos70,NOT scanned: label + preview only,FS L3,,3-1,0,9,,/media/murph_4090ws/My Passport/stroke_8s/20260902/9_2_2026-RecognizedCode-70_Preview.czi
+20260902_pos73,NOT scanned: label + preview only,FU R2,2026/08/07,2-1,0,8,,/media/murph_4090ws/My Passport/stroke_8s/20260902/9_2_2026-RecognizedCode-73_Preview.czi
+20260902_pos76,NOT scanned: label + preview only,FV R2,2026/08/07,2-1,0,9,,/media/murph_4090ws/My Passport/stroke_8s/20260902/9_2_2026-RecognizedCode-76_Preview.czi
+20260902_pos79,NOT scanned: label + preview only,C R2,2026/08/29,NV 1,0,10,,/media/murph_4090ws/My Passport/stroke_8s/20260902/9_2_2026-RecognizedCode-79_Preview.czi
+20260902_pos82,NOT scanned: label + preview only,C R2 or G R2,2026/08/29,NV 2,0,8,,/media/murph_4090ws/My Passport/stroke_8s/20260902/9_2_2026-RecognizedCode-82_Preview.czi
+20260902_pos85,NOT scanned: label + preview only,J R2,2026/08/29,NV 1,0,10,,/media/murph_4090ws/My Passport/stroke_8s/20260902/9_2_2026-RecognizedCode-85_Preview.czi
+20260902_pos88,NOT scanned: label + preview only,J R2,2026/08/29,NV 2,0,6,,/media/murph_4090ws/My Passport/stroke_8s/20260902/9_2_2026-RecognizedCode-88_Preview.czi
+20260902_pos91,NOT scanned: label + preview only,G R2,2026/08/25,NV 1,0,10,,/media/murph_4090ws/My Passport/stroke_8s/20260902/9_2_2026-RecognizedCode-91_Preview.czi
+20260902_pos94,NOT scanned: label + preview only,G R2,2026/08/25,NV 2,0,7,,/media/murph_4090ws/My Passport/stroke_8s/20260902/9_2_2026-RecognizedCode-94_Preview.czi
+20260902_pos97,NOT scanned: label + preview only,GR L2,2026/08/20,NV 1,0,9,,/media/murph_4090ws/My Passport/stroke_8s/20260902/9_2_2026-RecognizedCode-97_Preview.czi
+20260902_pos100,NOT scanned: label + preview only,GR R3,2026/08/25,NV 1,0,10,,/media/murph_4090ws/My Passport/stroke_8s/20260902/9_2_2026-RecognizedCode-100_Preview.czi
+20260902_pos103,NOT scanned: label + preview only,FM M2,2026/08/20,NV 1,0,10,,/media/murph_4090ws/My Passport/stroke_8s/20260902/9_2_2026-RecognizedCode-103_Preview.czi
+20260902_pos106,NOT scanned: label + preview only,FM M2,2026/08/20,NV 2,0,2,,/media/murph_4090ws/My Passport/stroke_8s/20260902/9_2_2026-RecognizedCode-106_Preview.czi
+20260902_pos109,NOT scanned: label + preview only,AE R2,2026/08/26,NV 1,0,10,,/media/murph_4090ws/My Passport/stroke_8s/20260902/9_2_2026-RecognizedCode-109_Preview.czi
+20260902_pos112,NOT scanned: label + preview only,AE R2,2026/08/26,NV 2,0,2,,/media/murph_4090ws/My Passport/stroke_8s/20260902/9_2_2026-RecognizedCode-112_Preview.czi
+20260902_pos115,NOT scanned: label + preview only,C R1,2026/08/26,NV 1,0,10,,/media/murph_4090ws/My Passport/stroke_8s/20260902/9_2_2026-RecognizedCode-115_Preview.czi
+20260902_pos118,NOT scanned: label + preview only,C R1,2026/08/26,NV 2,0,7,,/media/murph_4090ws/My Passport/stroke_8s/20260902/9_2_2026-RecognizedCode-118_Preview.czi
